@@ -18,8 +18,8 @@ Proiect realizat în cadrul disciplinei **Practica de specialitate**.
 ##  Roadmap și Progres
 - [x] **Săptămâna 1:** Setup repository GitHub, documentare teoretică, stabilire nișă medicală.
 - [x] **Săptămâna 2:** Colectare/creare set de date (dataset simptome) 
-- [ ] **Săptămâna 3-4:** Curățarea și pregătirea datelor (Data Preprocessing).
-- [ ] **Săptămâna 5-7:** Crearea, antrenarea și optimizarea modelului `DecisionTreeClassifier`.
-- [ ] **Săptămâna 8-10:** Dezvoltarea interfeței pentru utilizator și integrarea logicii de predicție.
+- [x] **Săptămâna 3-4:** Curățarea și pregătirea datelor (Data Preprocessing).
+- [x] **Săptămâna 5-7:** Crearea, antrenarea și optimizarea modelului `DecisionTreeClassifier`.
+- [x] **Săptămâna 8-10:** Dezvoltarea interfeței pentru utilizator și integrarea logicii de predicție.
 
 
